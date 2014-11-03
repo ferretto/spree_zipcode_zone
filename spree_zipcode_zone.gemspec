@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name        = 'spree_zipcode_zone'
   s.version     = '2.1.2'
   s.summary     = 'Zipcode range to Zone'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.description = 'Add a new kind of Zone type'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Edson Kenji Ninomiya'
